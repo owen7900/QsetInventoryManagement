@@ -1,0 +1,1 @@
+mysql -u qset -pspace120 inventory < "$1"
